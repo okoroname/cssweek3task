@@ -1,7 +1,7 @@
 .intro-flex{
     display: flex;
     background-color: hsl(216, 30%, 68%);
-    width: 1440px;
+    width: auto;
     height: 700px;
     justify-content:space-evenly;
     
