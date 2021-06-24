@@ -1,0 +1,36 @@
+.intro-flex{
+    display: flex;
+    background-color: hsl(216, 30%, 68%);
+    width: 1440px;
+    height: 700px;
+    justify-content:space-evenly;
+    
+}
+.intro-text{
+    width: 300px;
+    height: 150px;
+}
+
+.intro-desktop-image{
+    max-width: 100%;
+    height: auto;
+}
+.flex-snappy-affordable-people{
+    display:flex;
+}
+.flex-find-out-more-row{
+    display: flex;
+}
+.top-nav{
+    display: flex;
+    justify-content:space-between;
+    
+}
+.top-nav-menu{
+    
+}
+.flex-footer{
+    display: flex;
+    width:1440px;
+    justify-content:space-between;
+}
